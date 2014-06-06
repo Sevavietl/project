@@ -7,4 +7,4 @@ commands.
 
 You are watching Git essentials, from Tuts+ Premium.
 
-All rights reseved. June 2014
+All rights reseved.
